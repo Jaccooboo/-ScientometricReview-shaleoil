@@ -1,0 +1,999 @@
+PT J
+AU Zeng, YH
+   Fu, XG
+   Zeng, SQ
+   Du, G
+   Chen, J
+   Zhang, Q
+   Zhang, YR
+   Yao, YL
+AF Zeng, Yuhong
+   Fu, Xiugen
+   Zeng, Shengqiang
+   Du, Gu
+   Chen, Jiang
+   Zhang, Qian
+   Zhang, Yirong
+   Yao, Yanling
+TI ORGANIC GEOCHEMICAL CHARACTERISTICS OF THE BILONG CO OIL SHALE (CHINA): IMPLICATIONS FOR PALEOENVIRONMENT AND PETROLEUM PROSPECTS
+SO OIL SHALE
+LA English
+DT Article
+ID northern tibet; basin; marine; evolution; element; area
+AB The Bilong Co oil shale is located in the southern part of the Qiangtang basin. This oil shale zone, together with the Shengli River-Changshe Mountain oil shale zone in the northern part of the Qiangtang basin, represents a large marine oil shale resource in China. An organic geochemical investigation of the oil shale was performed to reconstruct paleoenvironment during deposition and to assess petroleum prospects. The TOC content (6.75-19.2 wt.%) and S-2 values (5.96-70.2 mg HC/g rock) of oil shale samples from the Bilong Co area are relatively high indicating that the oil shale from the Bilong Co area has shale oil producing potential. The thermal maturity assessed from T-max and other maturity-related parameters (Ts/(Ts+Tm), C(32)Hop S/(S+R), C(29)St S/(S+R), and C(29)St beta beta/(alpha alpha+beta beta)) shows a mature stage of the organic matter. Analyzed oil shale samples from the Bilong Co area are characterized by a dominance of low carbon number molecular compositions with relatively high C21-/C21+ (0.82-1.95), low Pr/Ph (0.13-0.80), high concentrations of homohopanes (C-31-C-35), and a slight predominance of C-29 steranes, indicating reducing environments, highly saline conditions, a strong contribution of inferior aquatic organisms, and some influence of terrestrial organic matter. Highly similar biomarker characteristics between the Bilong Co oil shale and nearby Zharen-Longeni crude oil in the southern Qiangtang depression suggest that the oil shale from the Bilong Co area has made a strong contribution to the generation of Zharen-Longeni crude oil.
+C1 [Zeng, Yuhong; Fu, Xiugen; Zeng, Shengqiang; Du, Gu; Chen, Jiang; Zhang, Qian; Zhang, Yirong; Yao, Yanling] Chengdu Inst Geol & Mineral Resources, Chengdu 610081, Peoples R China.
+   [Zeng, Shengqiang] Chinese Acad Geol Sci, Beijing 100037, Peoples R China.
+RP Fu, XG (通讯作者)，Chengdu Inst Geol & Mineral Resources, Chengdu 610081, Peoples R China.
+EM fuxiugen@126.com
+FU Sichuan Youth Science & Technology Foundation [09ZQ026-006]; National Natural Science Foundation of China [40702020]
+CR Cao JP, 2007, OIL SHALE, V24, P423
+   Chen JY, 1996, ORG GEOCHEM, V24, P931, DOI 10.1016/S0146-6380(96)00049-6
+   Chen L, 2005, ACTA GEOL SIN-ENGL, V79, P392
+   Connan J, 1980, GEOCHIM COSMOCHIM AC, V44, P1, DOI 10.1016/0016-7037(80)90173-8
+   Didyk BM, 1978, NATURE, V272, P216, DOI 10.1038/272216a0
+   Dyni JR, 2006, OIL SHALE, V23, P97
+   Espitalie J, 1977, REV I FR PETROL, V32, P23, DOI 10.2516/ogst:1977002
+   Fu XG, 2008, OIL SHALE, V25, P47, DOI 10.3176/oil.2008.1.06
+   Fu XG, 2011, INT J COAL GEOL, V85, P112, DOI 10.1016/j.coal.2010.10.004
+   Fu XG, 2010, FUEL, V89, P3623, DOI 10.1016/j.fuel.2010.07.043
+   Fu XG, 2010, OIL SHALE, V27, P194, DOI 10.3176/oil.2010.3.02
+   Fu XG, 2010, INT J COAL GEOL, V81, P191, DOI 10.1016/j.coal.2009.12.006
+   Fu XG, 2009, OIL SHALE, V26, P373, DOI 10.3176/oil.2009.3.03
+   Fu XG, 2009, INT J COAL GEOL, V78, P217, DOI 10.1016/j.coal.2009.02.001
+   [付修根 FUXIUGEN], 2008, 沉积学报 ACTA SEDIMENTOLOGICA SINICA, V26, P697
+   Grimalt J, 1987, GEOCHIM COSMOCHIM AC, V51, P1379, DOI 10.1016/0016-7037(87)90322-X
+   Hanson AD, 2000, AAPG BULL, V84, P1109
+   Huang WY, 1979, GEOCHIM COSMOCHIM AC, V43, P739, DOI 10.1016/0016-7037(79)90257-6
+   Kapp P, 2003, TECTONICS, V22, P0, DOI 10.1029/2002TC001383
+   Kok MV, 2006, OIL SHALE, V23, P209
+   Liu ZJ, 2009, OIL SHALE CHINA, V0, P98
+   Moldowan JM, 1985, AAPG BULL, V69, P1255
+   Peters KE, 1993, BIOMARKER GUIDE INTE, V0, P483
+   Qian JL, 2008, OIL SHALE PETROLEUM, V0, P14
+   Seifert WK, 1986, METHODS GEOCHEMISTRY, V0, P261
+   Shimoyama A, 1972, GEOCHIM COSMOCHIM AC, V36, P87, DOI 10.1016/0016-7037(72)90122-6
+   Ten HAVENH, 1988, GEOLOGICAL SOC LONDO, V40, P123, DOI 10.1144/GSL.SP.1988.040.01.11, 10.1144/GSL.SP.1988.040.01.11
+   Volkman JK, 1983, ADV ORG GEOCHEM, V0, P228
+   Volkman JK, 1986, ORG GEOCHEM, V9, P83, DOI 10.1016/0146-6380(86)90089-6
+   Wang CS, 1987, GEOLOGY CHINA, V8, P29
+   [王成善 WANGCHENGSHAN], 2004, 石油与天然气地质 OIL & GAS GEOLOGY, V25, P139
+   Xiong XQ, 2000, ORG GEOCHEM, V31, P1441, DOI 10.1016/S0146-6380(00)00083-8
+   Yi HS, 2003, 18 HKT WORKSH, V0, P129
+   Yin A, 2000, ANNU REV EARTH PL SC, V28, P211, DOI 10.1146/annurev.earth.28.1.211
+   Zhu YM, 2005, APPL GEOCHEM, V20, P1875, DOI 10.1016/j.apgeochem.2005.06.003
+NR 36
+TC 6
+Z9 9
+U1 0
+U2 8
+PU ESTONIAN ACAD PUBLISHERS
+PI TALLINN
+PA 6 KOHTU, TALLINN 10130, ESTONIA
+SN 0208-189X
+EI 1736-7492
+J9 OIL SHALE
+JI Oil Shale
+PD JUN 15
+PY 2011
+VL 28
+IS 3
+BP 398
+EP 414
+DI 10.3176/oil.2011.3.04
+PG 17
+WC Energy & Fuels; Engineering, Petroleum
+SC Energy & Fuels; Engineering
+GA 825FK
+UT WOS:000295256400004
+DA 2022-09-26
+ER
+
+PT J
+AU Siirde, A
+   Roos, I
+   Martins, A
+AF Siirde, A.
+   Roos, I.
+   Martins, A.
+TI ESTIMATION OF CARBON EMISSION FACTORS FOR THE ESTONIAN SHALE OIL INDUSTRY
+SO OIL SHALE
+LA English
+DT Article
+ID boiler
+AB In this paper the country-specific carbon emission factors for the by-products from oil shale thermal processing (generator gas, semi-coke gas and semi-coke) for different technologies are presented. Today these emission factors have still not been determined in Estonia. As the shale oil production will increase significantly in the future, major attention should be paid to the oil shale production-related emission factors.
+C1 [Siirde, A.; Roos, I.] Tallinn Univ Technol, Dept Thermal Engn, Tallinn, Estonia.
+   [Martins, A.] Dept Fac Sci, Res Lab Multiphase Media Phys, EE-19086 Tallinn, Estonia.
+RP Roos, I (通讯作者)，Tallinn Univ Technol, Dept Thermal Engn, Tallinn, Estonia.
+EM inge@staff.ttu.ee
+CR A SIIRDE, 2006, THERMAL CALCULATIONS, V0, P45
+   *all UNPROJITEP, 1973, OIL SHAL PROC DEV MA, V0, P95
+   [anonymous] , 2009, NATL INVENTORY REPOR, V0, P0
+   Arro H, 2006, OIL SHALE, V23, P356
+   Arro H, 2005, OIL SHALE, V22, P399
+   Blokhin A, 2005, ENERGY TECHNOLOGICAL, V0, P0
+   Golubev N, 2003, OIL SHALE, V20, P324
+   Martins A, 2004, POSSIBILITIES VKG EN, V0, P0
+   Soone J, 2003, OIL SHALE, V20, P311
+NR 11
+TC 6
+Z9 8
+U1 0
+U2 13
+PU ESTONIAN ACADEMY PUBLISHERS
+PI TALLINN
+PA 6 KOHTU, TALLINN 10130, ESTONIA
+SN 0208-189X
+EI 1736-7492
+J9 OIL SHALE
+JI Oil Shale
+PD JUN 15
+PY 2011
+VL 28
+IS 
+BP 127
+EP 139
+DI 10.3176/oil.2011.1S.05
+PG 13
+WC Energy & Fuels; Engineering, Petroleum
+SC Energy & Fuels; Engineering
+GA 729TE
+UT WOS:000287973000005
+DA 2022-09-26
+ER
+
+PT J
+AU Datangel, B
+   Goldfarb, JL
+AF Datangel, Beatriz
+   Goldfarb, Jillian L.
+TI Heavy Metals in Colorado and Chinese Oil Shale Semicoke: Disposal Issues, Impediments to Byproduct Conversion
+SO ENERGY & FUELS
+LA English
+DT Article
+ID soil; toxicity
+AB Oil shale, a fine-grained sedimentary rock, contains a proportionally large amount of kerogen, which can be converted into oil by thermal degradation of the compacted rock. The primary byproduct of current oil shale oil extraction processes is semicoke. Its landfill deposition presents a possible threat to the environment and represents a waste of a potentially useable byproduct. In this work, we explore the heavy metal content of oil shale semicoke pyrolyzed at 500 and 1000 degrees C to better understand the risks posed by disposal of oil shale processing waste on the nearby environment, as well as impediments to potential byproduct conversion. The greatest potential obstruction to byproduct conversion and the greatest environmental risk posed by open air disposal of oil shale semicoke is likely due to relatively high arsenic concentrations; using X-ray fluorescence spectroscopy, we find arsenic concentrations in semicoke (pyrolyzed at 500 degrees C) ranging from 25 ppm for Chinese oil shale from the Huadian mine (class C) to 79 ppm for Green River, Colorado, 50 gallons per ton (CPT) of oil shale. Other heavy metal elements analyzed, including barium, copper, lead, manganese, and iron, are well below the United States Environmental Protection Agency (U.S. EPA) regional screening limits.
+C1 [Goldfarb, Jillian L.] Univ New Hampshire, Dept Chem Engn, Durham, NH 03824 USA.
+   [Datangel, Beatriz] Simmons Coll, Dept Chem, Boston, MA 02115 USA.
+RP Goldfarb, JL (通讯作者)，Univ New Hampshire, Dept Chem Engn, 33 Acad Way, Durham, NH 03824 USA.
+EM jillianlgoldfarb@gmail.com
+CR Adamson J, 2010, OIL SHALE, V27, P250, DOI 10.3176/oil.2010.3.06
+   Addamiano A, 1957, J PHYS CHEM-US, V61, P1020, DOI 10.1021/j150553a050
+   Anthrop DF, 1964, J PHYS CHEM-US, V68, P2335, DOI 10.1021/j100790a052
+   *api , 1998, PUBL HLTH ENV SCI DE, V4676, P0
+   Aunela-tapola LA, 1998, FUEL PROCESS TECHNOL, V57, P1, DOI 10.1016/S0378-3820(98)00069-1
+   Bartis JT, 2005, OIL SHAL DEV US PROS, V0, P0
+   Fathoni AZ, 1992, ENERG FUEL, V6, P682
+   Grae SH, 2003, CHEM ENG NEWS, V81, P163
+   Horvat T, 2007, SCI TOTAL ENVIRON, V384, P229, DOI 10.1016/j.scitotenv.2007.06.007
+   Jarup L, 2003, BRIT MED BULL, V68, P167, DOI 10.1093/bmb/ldg032
+   Jiang XM, 2007, PROG ENERG COMBUST, V33, P552, DOI 10.1016/j.pecs.2006.06.002
+   Kara-gulbay R, 2008, ENERG FUEL, V22, P3164, DOI 10.1021/ef8002137
+   Knaus E, 2010, OVERVIEW OIL SHALE R, V0, P1
+   Kulaots I, 2010, FUEL, V89, P3300, DOI 10.1016/j.fuel.2010.05.025
+   Lisak A, 1994, J PHASE EQUILIB, V14, P151
+   Nei L, 2009, OIL SHALE, V26, P424, DOI 10.3176/oil.2009.3.07
+   Pyle SM, 1996, ENVIRON SCI TECHNOL, V30, P204, DOI 10.1021/es9502482
+   Raade G, 2003, CHEM ENG NEWS, V81, P160
+   Raave H, 2007, OIL SHALE, V24, P59
+   Saether OM, 2004, ENERGY WASTE ENV GEO, V0, P0
+   Sun Y, 2006, ENVIRON GEOCHEM HLTH, V28, P73, DOI 10.1007/s10653-005-9014-0
+   Us EPA, 2007, 6200 ENV PROT AGENCY, V0, P0
+   *us EPA, 2010, REG SCREEN LEV CHEMC, V0, P0
+   *usepa(usenvironmentalprotectionagency) , 2005, EC SOIL SCREEN LEV A, V0, P0
+   World ENERGYCOUNCIL(WEC), 2007, 2007 SURV EN RES, V0, P0
+   Yan JW, 2009, ENERG FUEL, V23, P5792, DOI 10.1021/ef9008345
+NR 26
+TC 21
+Z9 25
+U1 3
+U2 40
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0887-0624
+EI 1520-5029
+J9 ENERG FUEL
+JI Energy Fuels
+PD AUG 15
+PY 2011
+VL 25
+IS 8
+BP 3522
+EP 3529
+DI 10.1021/ef2006386
+PG 8
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA 809SN
+UT WOS:000294077100018
+DA 2022-09-26
+ER
+
+PT J
+AU Allawzi, M
+   Al-Otoom, A
+   Allaboun, H
+   Ajlouni, A
+   Al Nseirat, F
+AF Allawzi, Mamdouh
+   Al-Otoom, Awni
+   Allaboun, Hussein
+   Ajlouni, Abdulaziz
+   Al Nseirat, Fatima
+TI CO2 supercritical fluid extraction of Jordanian oil shale utilizing different co-solvents
+SO FUEL PROCESSING TECHNOLOGY
+LA English
+DT Article
+DE SCFE; Supercritical; Oil shale; Shale oil; CO2; Co-solvent; Extraction
+ID hydrocarbon
+AB In this study, extracting shale oil from Jordanian oil shale using supercritical fluid extraction has been investigated. Experimental data indicates that by using supercritical extraction with carbon dioxide, using co-solvents can be viable. A relatively high yield can be obtained at relatively moderate pressure. At the highest temperature and pressure of 450 degrees C and 3200 psi, respectively, and with hexane as a co-solvent, the highest yield obtained was 100 kg/ton of oil shale, which was at the highest temperature and pressure of 450 degrees C and 3200 psi, respectively, and with hexane as a co-solvent. Increasing both the operating pressure and temperature increases the oil yield. In the supercritical state, carbon dioxide along with other co-solvents, such as hexane and acetone, interact with the kerogen leading to the dissolution of fragments due to an increase in solubility and mass transfer. Increasing the particle size of oil shale for extraction decreases the oil yield. Most of the extracted oil obtained is saturated hydrocarbons, olefinic and a portion of aromatic hydrocarbons. As the extraction temperature increases, the production of low-molecular weight compounds increases. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Allawzi, Mamdouh; Al-Otoom, Awni; Allaboun, Hussein; Al Nseirat, Fatima] Jordan Univ Sci & Technol, Dept Chem Engn, Irbid 22110, Jordan.
+   [Ajlouni, Abdulaziz] Jordan Univ Sci & Technol, Appl Chem Sci Dept, Irbid 22110, Jordan.
+RP Allawzi, M (通讯作者)，Al Imam Muhammad Ibn Saud Islamic Univ, Coll Engn, Riyadh, Saudi Arabia.
+EM mallawzi@just.edu.jo
+FU Jordan University of Science and Technology
+CR Akinlua A, 2008, J SUPERCRIT FLUID, V45, P57, DOI 10.1016/j.supflu.2007.11.016
+   Alali J, 2006, OIL SHALE JORDAN, V0, P0
+   Bondar E, 1998, FUEL, V77, P211, DOI 10.1016/S0016-2361(97)00188-9
+   Brandt AR, 2008, ENVIRON SCI TECHNOL, V42, P7489, DOI 10.1021/es800531f
+   Coats AW, 1964, NATURE, V201, P68, DOI 10.1038/201068a0
+   El HARFIK, 1999, J ANAL APPL PYROL, V50, P163, DOI 10.1016/S0165-2370(99)00028-5
+   Erol M, 1994, FUEL SCI TECHN INT, V12, P947
+   Funazukuri T, 1988, FUEL, V67, P10, DOI 10.1016/0016-2361(88)90004-X
+   Haddadin MSY, 2009, ENERG CONVERS MANAGE, V50, P983, DOI 10.1016/j.enconman.2008.12.015
+   Haddadin RA, 1980, FUEL, V59, P539, DOI 10.1016/0016-2361(80)90187-8
+   Hamarneh Y, 1998, OIL SHALE RESOURCES, V0, P0
+   Hu HQ, 1999, FUEL, V78, P645, DOI 10.1016/S0016-2361(98)00199-9
+   Kesavan S, 1988, J PET SCI TECHNOL, V6, P505
+   Khraisha YH, 2000, ENERG SOURCE, V22, P347, DOI 10.1080/00908310050013947
+   Khraisha YH, 2002, ENERG CONVERS MANAGE, V43, P229, DOI 10.1016/S0196-8904(01)00023-1
+   Koel M, 2000, OIL SHALE, V17, P225
+   Koel M, 2001, PURE APPL CHEM, V73, P153, DOI 10.1351/pac200173010153
+   Kramer R, 1989, FUEL, V68, P702, DOI 10.1016/0016-2361(89)90207-X
+   Langenfeld JJ, 1993, ANAL CHEM, V65, P338, DOI 10.1021/ac00052a006
+   Lopez-mesas M, 2005, J SUPERCRIT FLUID, V35, P235, DOI 10.1016/j.supflu.2005.01.008
+   Olukcu N, 1999, ENERG FUEL, V13, P895, DOI 10.1021/ef9802678
+   Patrakov YF, 2008, SOLID FUEL CHEM+, V42, P10, DOI 10.3103/S0361521908010035
+   Rudolf J, 2005, J HIGH RES CHROMATOG, V22, P586
+   Thakur DS, 1987, IND ENG CHEM RES, V26, P1351, DOI 10.1021/ie00067a015
+   Torrente MC, 2011, IND ENG CHEM RES, V50, P1730, DOI 10.1021/ie1004509
+   Tucker JD, 2000, ENERG SOURCE, V22, P453, DOI 10.1080/00908310050013866
+   Zhongmin S, 1996, CHIN J GEOCHEM, V15, P324
+NR 27
+TC 53
+Z9 54
+U1 2
+U2 45
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-3820
+EI 1873-7188
+J9 FUEL PROCESS TECHNOL
+JI Fuel Process. Technol.
+PD OCT 15
+PY 2011
+VL 92
+IS 10
+BP 2016
+EP 2023
+DI 10.1016/j.fuproc.2011.06.001
+PG 8
+WC Chemistry, Applied; Energy & Fuels; Engineering, Chemical
+SC Chemistry; Energy & Fuels; Engineering
+GA 807WB
+UT WOS:000293932600029
+DA 2022-09-26
+ER
+
+PT J
+AU Cleveland, CJ
+   O'Connor, PA
+AF Cleveland, Cutler J.
+   O'Connor, Peter A.
+TI Energy Return on Investment (EROI) of Oil Shale
+SO SUSTAINABILITY
+LA English
+DT Article
+DE shale oil; EROI; in situ production; surface retorting; petroleum
+ID extraction; fuel; gas
+AB The two methods of processing synthetic crude from organic marlstone in demonstration or small-scale commercial status in the U. S. are in situ extraction and surface retorting. The considerable uncertainty surrounding the technological characterization, resource characterization, and choice of the system boundary for oil shale operations indicate that oil shale is only a minor net energy producer if one includes internal energy (energy in the shale that is used during the process) as an energy cost. The energy return on investment (EROI) for either of these methods is roughly 1.5:1 for the final fuel product. The inclusions or omission of internal energy is a critical question. If only external energy (energy diverted from the economy to produce the fuel) is considered, EROI appears to be much higher. In comparison, fuels produced from conventional petroleum show overall EROI of approximately 4.5:1. "At the wellhead" EROI is approximately 2: 1 for shale oil (again, considering internal energy) and 20: 1 for petroleum. The low EROI for oil shale leads to a significant release of greenhouse gases. The large quantities of energy needed to process oil shale, combined with the thermochemistry of the retorting process, produce carbon dioxide and other greenhouse gas emissions. Oil shale unambiguously emits more greenhouse gases than conventional liquid fuels from crude oil feedstocks by a factor of 1.2 to 1.75. Much of the discussion regarding the EROI for oil shale should be regarded as preliminary or speculative due to the very small number of operating facilities that can be assessed.
+C1 [Cleveland, Cutler J.; O'Connor, Peter A.] Boston Univ, Dept Geog & Environm, Boston, MA 02215 USA.
+RP Cleveland, CJ (通讯作者)，Boston Univ, Dept Geog & Environm, 675 Commonwealth Ave, Boston, MA 02215 USA.
+EM cutler@bu.edu; paoconn@bu.edu
+CR Backer T, 2007, PEAK OIL PRODUCTION, V0, P0
+   Bartis JT, 2005, OIL SHALE DEV US PRO, V0, P0
+   Brandt AR, 2008, ENVIRON SCI TECHNOL, V42, P7489, DOI 10.1021/es800531f
+   Brandt AR, 2009, ENERG FUEL, V23, P6253, DOI 10.1021/ef900678d
+   Bunger JW, 2004, STRATEGIC SIGNIFICAN, VII, P0
+   Burnham AK, 2009, ACS SYM SER, V1032, P149
+   Cleveland CJ, 2005, ENERGY, V30, P769, DOI 10.1016/j.energy.2004.05.023
+   Cleveland CJ, 1984, SCIENCE, V225, P890, DOI 10.1126/science.225.4665.890
+   Cleveland CJ, 1992, ECOL ECON, V6, P139
+   Crawford PM, 2007, SECURE FUELS DOMESTI, V0, P0
+   Delucchi MA, 1993, EMISSIONS GREENHOUSE, V2, P0
+   Delucchi MA, 2003, UCDITSRR0317, V0, P0
+   Delucchi MA, 1991, EMISSIONS GREENHOUSE, V1, P0
+   Farrell AE, 2006, SCIENCE, V311, P506, DOI 10.1126/science.1121416
+   Hammerschlag R, 2006, ENVIRON SCI TECHNOL, V40, P1744, DOI 10.1021/es052024h
+   Hill DL, 2006, 26 OIL SHAL S GOLD C, V0, P0
+   Mitsch WJ, 1981, ENERGY ECOLOGICAL MO, V0, P689
+   Mulder K, 2008, AMBIO, V37, P74, DOI 10.1579/0044-7447(2008)37[74:EROITA]2.0.CO;2
+   Murphy DJ, 2011, SUSTAINABILITY-BASEL, V3, P1888, DOI 10.3390/su3101888
+   Ogunsola O, 2010, OIL SHALE SOLUTION L, V1032, P0
+   Ogunsola O, 2010, OIL SHALE SOLUTION L, V0, P89
+   Trinnaman JA, 2007, 2007 SURVEY ENERGY R, V0, P93
+   Us DEPARTMENTOFENERGY, 2007, FACT SHEET EN EFF ST, V0, P0
+   Us DEPARTMENTOFENERGYSTRATEGICUNCONVENTIONALFUELSTASKFORCE, 2007, DEV AM STRAT UNC FUE, V0, P0
+NR 24
+TC 42
+Z9 42
+U1 1
+U2 29
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2071-1050
+EI 
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD NOV 15
+PY 2011
+VL 3
+IS 11
+BP 2307
+EP 2322
+DI 10.3390/su3112307
+PG 16
+WC Green & Sustainable Science & Technology; Environmental Sciences; Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA V29QV
+UT WOS:000208763800014
+DA 2022-09-26
+ER
+
+PT J
+AU Fu, XG
+   Wang, J
+   Zeng, YH
+   Tan, FW
+   He, JL
+AF Fu, Xiugen
+   Wang, Jian
+   Zeng, Yuhong
+   Tan, Fuwen
+   He, Jianglin
+TI Geochemistry and origin of rare earth elements (REEs) in the Shengli River oil shale, northern Tibet, China
+SO CHEMIE DER ERDE-GEOCHEMISTRY
+LA English
+DT Article
+DE Marine oil shale; REE geochemistry; Origin; Shengli River area; Northern Tibet; China
+ID trace-element; southern india; surface mine; coal; deposit; district; shanxi
+AB The Shengli River-Changshe Mountain oil shale zone, located in the North Qiangtang depression, northern Tibet plateau, represents a potentially large marine oil shale resource in China. Twenty-eight samples including oil shale, micritic limestone and marl were collected from the Shengli River area to determine the contents and distribution patterns of rare earth elements (REEs) in marine oil shale. Oil shale samples from the Shengli River area have high ash yield (61.86-67.48%) and TOC content (8.02-13.67%) with low total sulfur (S(t,d)) content (0.76-1.39%) and intermediate shale oil content (3.60-16.30%). The total rare earth element (Sigma REE) content in oil shale samples is notably depleted (46.79-67.90 mu g/g), approximately one third of the mean value of the North American Shale Composite (NASC), and lower than that of worldwide black shales and Chinese coals, but higher than that of world-wide coals and micritic limestone samples (29.21 mu g/g) from the Shengli River area. The oil shale samples from the Shengli River area exhibit shale-like Chondrite or NASC-normalized REE patterns similar to those of micritic limestone and marl samples from this area, indicating that REEs of these different lithological samples may have been derived from a similar terrigenous source. REE contents of oil shale samples are highly positive correlated with ash yield and show a positive correlation with Fe and a weakly positive correlation with organic sulfur, and the vertical variations of REEs mainly follow those of Si, Al, K and Ti. All these facts indicate that the REE contents in oil shale seams are mainly controlled by clay minerals and, to a lesser extent, by pyrite, as well as partly associated with oil shale organic constituents. Rare earth elements in the Shengli River oil shale have originated from two sources: a felsic volcanic rock source and a clastic or/and limestone source. (C) 2010 Elsevier GmbH. All rights reserved.
+C1 [Fu, Xiugen; Wang, Jian; Tan, Fuwen; He, Jianglin] Chengdu Inst Geol & Mineral Resources, Chengdu 610081, Peoples R China.
+   [Zeng, Yuhong] Sichuan Univ, Coll Chem, Chengdu 610065, Peoples R China.
+RP Fu, XG (通讯作者)，Chengdu Inst Geol & Mineral Resources, Chengdu 610081, Peoples R China.
+EM fuxiugen@126.com
+FU National Natural Science Foundation of China [40702020, 40972087]; Sichuan Youth Science & Technology Foundation [09ZQ026-006]; National Oil and Gas Special Project [XQ-2009-01]
+CR Armstrong-altrin JS, 2004, J SEDIMENT RES, V74, P285, DOI 10.1306/082803740285
+   Armstrong-altrin JS, 2003, INT GEOL REV, V45, P16, DOI 10.2747/0020-6814.45.1.16
+   Brumsack HJ, 2006, PALAEOGEOGR PALAEOCL, V232, P344, DOI 10.1016/j.palaeo.2005.05.011
+   Chatziapostolou A, 2006, INT J COAL GEOL, V65, P3, DOI 10.1016/j.coal.2005.04.005
+   Condie KC, 1991, GEOCHIM COSMOCHIM AC, V55, P2527, DOI 10.1016/0016-7037(91)90370-K
+   Dai SF, 2008, INT J COAL GEOL, V74, P185, DOI 10.1016/j.coal.2008.01.001
+   Eskenazy GM, 1987, INT J COAL GEOL, V7, P301, DOI 10.1016/0166-5162(87)90041-3
+   Finkelman RB, 1982, P BAS COAL SCI WORKS, V0, P69
+   Fu XG, 2010, GONDWANA RES, V17, P135, DOI 10.1016/j.gr.2009.04.010
+   Fu XG, 2008, OIL SHALE, V25, P47, DOI 10.3176/oil.2008.1.06
+   Fu XG, 2010, INT J COAL GEOL, V81, P191, DOI 10.1016/j.coal.2009.12.006
+   Fu XG, 2009, OIL SHALE, V26, P373, DOI 10.3176/oil.2009.3.03
+   Fu XG, 2009, INT J COAL GEOL, V78, P217, DOI 10.1016/j.coal.2009.02.001
+   Gromet LP, 1984, GEOCHIM COSMOCHIM AC, V48, P2469, DOI 10.1016/0016-7037(84)90298-9
+   Haskin LA, 1968, J RADIOANAL CHEM, V1, P337, DOI 10.1007/BF02513689
+   Kasper-zubillaga JJ, 2008, CHEM ERDE-GEOCHEM, V68, P45, DOI 10.1016/j.chemer.2006.05.001
+   Kapp P, 2003, TECTONICS, V22, P0, DOI 10.1029/2002TC001383
+   Karadag MM, 2009, CHEM ERDE-GEOCHEM, V69, P143, DOI 10.1016/j.chemer.2008.04.005
+   Kasper-zubillaga JJ, 2010, CHEM ERDE-GEOCHEM, V70, P55, DOI 10.1016/j.chemer.2009.09.001
+   Ketris MP, 2009, INT J COAL GEOL, V78, P135, DOI 10.1016/j.coal.2009.01.002
+   Kimura T, 1998, FUEL PROCESS TECHNOL, V56, P1, DOI 10.1016/S0378-3820(97)00089-1
+   Li XH, 1997, GEOCHEM J, V31, P323, DOI 10.2343/geochemj.31.323
+   Liaghat S, 2003, GEOCHEM J, V37, P627, DOI 10.2343/geochemj.37.627
+   Liu DM, 2001, INT J COAL GEOL, V46, P51, DOI 10.1016/S0166-5162(00)00040-9
+   Liu ZJ, 2009, OIL SHALE CHINA, V0, P1157
+   Mukhopadhyay PK, 1998, INT J COAL GEOL, V37, P113, DOI 10.1016/S0166-5162(98)00020-2
+   Qian J, 2003, OIL SHALE, V20, P356
+   Querol X, 1998, P AIE 8 AUSTR COAL C, V0, P51
+   Rantitsch G, 2003, MINER PETROL, V77, P109, DOI 10.1007/s00710-002-0197-0
+   Schatzel SJ, 2003, INT J COAL GEOL, V54, P223, DOI 10.1016/S0166-5162(03)00038-7
+   Spears DA, 1999, INT J COAL GEOL, V38, P161, DOI 10.1016/S0166-5162(98)00012-3
+   Taylor SR, 1985, J GEOL, V94, P57
+   Valkovic V, 1983, TRACE ELEMENTS COAL, V1, P133
+   Wang J, 2004, POTENTIAL OIL GAS RE, V0, P34
+   Wang J, 2008, GEOL B CHINA, V28, P691
+   Wang JA, 2008, SCI CHINA SER D, V51, P194, DOI 10.1007/s11430-008-0010-y
+   Wang PJ, 1996, J CHANGCHUN U EARTH, V26, P47
+   Wang WF, 2008, INT J COAL GEOL, V76, P309, DOI 10.1016/j.coal.2008.08.012
+   Webb GE, 2000, GEOCHIM COSMOCHIM AC, V64, P1557, DOI 10.1016/S0016-7037(99)00400-7
+   Zhao ZZ, 2001, TECTONIC CHARACTERIS, V0, P23
+NR 40
+TC 62
+Z9 68
+U1 3
+U2 38
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 0009-2819
+EI 
+J9 CHEM ERDE-GEOCHEM
+JI Chem Erde-Geochem.
+PD JUN 15
+PY 2011
+VL 71
+IS 1
+BP 21
+EP 30
+DI 10.1016/j.chemer.2010.07.003
+PG 10
+WC Geochemistry & Geophysics
+SC Geochemistry & Geophysics
+GA 774JK
+UT WOS:000291381300002
+DA 2022-09-26
+ER
+
+PT J
+AU Han, XX
+   Jiang, XM
+   Cui, ZG
+   Yan, JW
+   Liu, JG
+AF Han, X. X.
+   Jiang, X. M.
+   Cui, Z. G.
+   Yan, J. W.
+   Liu, J. G.
+TI Effects of retorting factors on combustion properties of shale char Part 4. Combustion characteristics
+SO JOURNAL OF THERMAL ANALYSIS AND CALORIMETRY
+LA English
+DT Article
+DE Oil shale; Shale char; Retorting factors; Combustion characteristics
+ID oil-shale; comprehensive utilization; heating rate; kinetics; pyrolysis; coal; technology
+AB For obtaining high shale oil yield as well as treating shale char efficiently and in an environmentally friendly way in a new comprehensive utilization system of oil shale, a series of fundamental experiments have been conducted for exploring the effects of retorting factors on shale oil yield and shale char characteristics. Based on these previous studies, in this article, combustion experiments of shale chars obtained under various retorting conditions were performed with a Q5000IR thermogravimetric analyzer and a Leitz II-A heatable stage microscope and the effects of retorting factors were discussed on the combustion characteristics of shale char. Among four studied retorting parameters, retorting temperature and residence time exert very significant influence on the combustion characteristics of shale char. Either elevating the retorting temperature from 430 to 520 A degrees C or lengthening the residence time at a low retorting temperature will largely decrease residual organic matters within shale char, resulting in decreasing mass loss in the low-temperature stage of combustion process of shale char, an elevation of ignition temperature and a shift of ignition mechanism from homogeneous to heterogeneous. One set of retorting condition was also recommended as a reference for designing the comprehensive utilization system of oil shale studied in this work: retort temperature of 460-490 A degrees C, residence time of 20-40 min, particle size of < 3 mm, and low heating rate of < 10 A degrees C/min.
+C1 [Han, X. X.; Jiang, X. M.; Cui, Z. G.; Yan, J. W.; Liu, J. G.] Shanghai Jiao Tong Univ, Inst Thermal Energy Engn, Shanghai 200240, Peoples R China.
+RP Han, XX (通讯作者)，Shanghai Jiao Tong Univ, Inst Thermal Energy Engn, Shanghai 200240, Peoples R China.
+EM hanxiangxin@sjtu.edu.cn
+FU National Natural Science Foundation of China [50906051]
+CR Aboulkas A, 2009, J THERM ANAL CALORIM, V96, P883, DOI 10.1007/s10973-009-0064-x
+   Arenillas A, 2004, J THERM ANAL CALORIM, V76, P603
+   Degirmenci L, 2005, ENERG SOURCE, V27, P787, DOI 10.1080/00908310490449531
+   Han XX, 2008, J THERM ANAL CALORIM, V92, P595, DOI 10.1007/s10973-007-8659-6
+   Han XX, 2009, APPL ENERG, V86, P2381, DOI 10.1016/j.apenergy.2009.03.014
+   Han XX, 2010, J HAZARD MATER, V175, P445, DOI 10.1016/j.jhazmat.2009.10.026
+   Han XX, 2009, ENERG FUEL, V23, P677, DOI 10.1021/ef800717g
+   Han XX, 2010, ENERGY FUELS UNPUB, V0, P0
+   Jiang XM, 2007, PROG ENERG COMBUST, V33, P552, DOI 10.1016/j.pecs.2006.06.002
+   Jiang XM, 2007, ENERGY, V32, P772, DOI 10.1016/j.energy.2006.05.001
+   Kaljuvee T, 2011, J THERM ANAL CALORIM, V105, P395, DOI 10.1007/s10973-010-1033-0
+   Kok MV, 2007, J THERM ANAL CALORIM, V90, P817, DOI 10.1007/s10973-007-8240-3
+   Kok MV, 2007, J THERM ANAL CALORIM, V88, P657, DOI 10.1007/s10973-006-8027-y
+   Kok MV, 2005, J THERM ANAL CALORIM, V79, P175, DOI 10.1007/s10973-004-0581-6
+   Kok MV, 2004, J THERM ANAL CALORIM, V76, P247, DOI 10.1023/B:JTAN.0000027823.17643.5b
+   Kok MV, 2002, J THERM ANAL CALORIM, V68, P1061, DOI 10.1023/A:1016119428815
+   Krishnaswamy S, 1996, FUEL, V75, P333, DOI 10.1016/0016-2361(95)00180-8
+   Kuusik R, 2004, OIL SHALE, V21, P237
+   Lyon RK, 1983, COMBUST FLAME, V51, P105, DOI 10.1016/0010-2180(83)90087-1
+   Miknis FP, 1987, ENERG FUEL, V1, P477, DOI 10.1021/ef00006a004
+   Qian JL, 2008, INT OFFSHORE POLAR E, V0, P19
+   Tikma L, 2007, OIL SHALE, V24, P535
+   Trikkel A, 2004, OIL SHALE, V21, P227
+   Vantelon JP, 1990, FUEL, V69, P211, DOI 10.1016/0016-2361(90)90176-Q
+   Wen CS, 1983, FUEL, V62, P1269, DOI 10.1016/S0016-2361(83)80008-8
+   Yagmur S, 2006, J THERM ANAL CALORIM, V86, P479, DOI 10.1007/s10973-005-7312-5
+   Yagmur S, 2009, J THERM ANAL CALORIM, V96, P189, DOI 10.1007/s10973-008-9434-z
+NR 27
+TC 8
+Z9 8
+U1 0
+U2 26
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1388-6150
+EI 1588-2926
+J9 J THERM ANAL CALORIM
+JI J. Therm. Anal. Calorim.
+PD MAY 15
+PY 2011
+VL 104
+IS 2
+BP 771
+EP 779
+DI 10.1007/s10973-010-1179-9
+PG 9
+WC Thermodynamics; Chemistry, Analytical; Chemistry, Physical
+SC Thermodynamics; Chemistry
+GA 750RC
+UT WOS:000289564700046
+DA 2022-09-26
+ER
+
+PT J
+AU Keating, GN
+   Middleton, RS
+   Stauffer, PH
+   Viswanathan, HS
+   Letellier, BC
+   Pasqualini, D
+   Pawar, RJ
+   Wolfsberg, AV
+AF Keating, Gordon N.
+   Middleton, Richard S.
+   Stauffer, Philip H.
+   Viswanathan, Hari S.
+   Letellier, Bruce C.
+   Pasqualini, Donatella
+   Pawar, Rajesh J.
+   Wolfsberg, Andrew V.
+TI Mesoscale Carbon Sequestration Site Screening and CCS Infrastructure Analysis
+SO ENVIRONMENTAL SCIENCE & TECHNOLOGY
+LA English
+DT Article
+ID system model; co2; storage; capture
+AB We explore carbon capture and sequestration (CCS) at the mesoscale, a level of study between regional carbon accounting and highly detailed reservoir models for individual sites. We develop an approach to CO2 sequestration site screening for industries or energy development policies that involves identification of appropriate sequestration basin, analysis of geologic formations, definition of surface sites, design of infrastructure, and analysis of CO2 transport and storage costs. Our case study involves carbon management for potential oil shale development in the Piceance-Uinta Basin, CO and UT. This study uses new capabilities of the CO2-PENS model for site screening, including reservoir capacity, injectivity, and cost calculations for simple reservoirs at multiple sites. We couple this with a model of optimized source-sink-network infrastructure (SimCCS)to design pipeline networks and minimize CCS cost for a given industry or region. The CLEAR(uff) dynamical assessment model calculates the CO2 source term for various oil production levels. Nine sites in a 13,300 km(2) area have the capacity to store 6.5 GtCO(2), corresponding to shale-oil production of 1.3 Mbbl/day for 50 years (about 1/4 of U.S. crude oil production). Our results highlight the complex, nonlinear relationship between the spatial deployment of CCS infrastructure and the oil-shale production rate.
+C1 [Keating, Gordon N.; Middleton, Richard S.; Stauffer, Philip H.; Viswanathan, Hari S.; Pasqualini, Donatella; Pawar, Rajesh J.; Wolfsberg, Andrew V.] Los Alamos Natl Lab, Earth & Environm Sci Div, Los Alamos, NM 87545 USA.
+   [Letellier, Bruce C.] Los Alamos Natl Lab, Decis Anal Div, Los Alamos, NM 87545 USA.
+RP Keating, GN (通讯作者)，Los Alamos Natl Lab, Earth & Environm Sci Div, POB 1663, Los Alamos, NM 87545 USA.
+EM gkeating@lanl.gov
+FU DOE Office of Naval Petroleum and Oil Shale Reserves; DOE Office of Fossil Energy
+CR *am ASSADVSCI, 2009, SCIENCE, V325, P1644
+   Bachu S, 2003, ENVIRON GEOL, V44, P277, DOI 10.1007/s00254-003-0762-9
+   Bartis JT, 2005, OIL SHALE DEV US PRO, V0, P0
+   Birkholzer JT, 2009, INT J GREENH GAS CON, V3, P181, DOI 10.1016/j.ijggc.2008.08.002
+   Brandt AR, 2008, ENVIRON SCI TECHNOL, V42, P7489, DOI 10.1021/es800531f
+   Chadwick ANDY, 2010, LEADING EDGE, V29, P170, DOI 10.1190/1.3304820
+   Chu S, 2009, SCIENCE, V325, P1599, DOI 10.1126/science.1181637
+   *doe , 2008, DOEFE0528, V0, P0
+   Dooley JJ, 2009, INT J GREENH GAS CON, V3, P720, DOI 10.1016/j.ijggc.2009.08.004
+   Farrell AE, 2006, ENVIRON RES LETT, V1, P0, DOI 10.1088/1748-9326/1/1/014004
+   Haszeldine RS, 2009, SCIENCE, V325, P1647, DOI 10.1126/science.1172246
+   Johnson RC, 2009, ASSESSMENT IN PLACE, V0, P6
+   Kuby M, 2010, INT REG SCI IN PRESS, V0, P0
+   Mathieson ALLAN, 2010, LEADING EDGE, V29, P216, DOI 10.1190/1.3304827
+   Metz B, 2005, IPCC SPECIAL REPORT, V0, P195
+   Middleton RS, 2009, ENRGY PROCED, V1, P1611, DOI 10.1016/j.egypro.2009.01.211
+   Middleton RS, 2009, ENERG POLICY, V37, P1052, DOI 10.1016/j.enpol.2008.09.049
+   Mit , 2006, MIT CO2 PIP TRANSP C, V0, P0
+   Pasqualini D, 2009, OIL SHALE INTEGRATED, V0, P0
+   Rubin ES, 2005, P 7 INT C GREENH GAS, V7, P285, DOI 10.1016/B978-008044704-9/ 50029-X, 10.1016/B978-008044704-9/50029-X, 10.1016/B978008044704-9/50029-X
+   Smith HJ, 2009, SCIENCE, V325, P1641, DOI 10.1126/science.325_1641
+   Stauffer PH, 2009, ENVIRON SCI TECHNOL, V43, P565, DOI 10.1021/es800403w
+   Surdam RS, 2009, WSGS2009CGRD08 WYOM, V0, P0
+   Viswanathan HS, 2008, ENVIRON SCI TECHNOL, V42, P7280, DOI 10.1021/es800417x
+   Yang F, 2010, PETROL SCI, V7, P83, DOI 10.1007/s12182-010-0010-3
+NR 27
+TC 39
+Z9 40
+U1 1
+U2 18
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0013-936X
+EI 1520-5851
+J9 ENVIRON SCI TECHNOL
+JI Environ. Sci. Technol.
+PD JAN 1
+PY 2011
+VL 45
+IS 1
+BP 215
+EP 222
+DI 10.1021/es101470m
+PG 8
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA 699RA
+UT WOS:000285679300033
+PM 20698546
+DA 2022-09-26
+ER
+
+PT J
+AU Song, XL
+   Parish, CA
+AF Song, Xinli
+   Parish, Carol A.
+TI A Mechanistic Study of the 2-Thienylmethyl + HO2 Radical Recombination Reaction
+SO JOURNAL OF PHYSICAL CHEMISTRY A
+LA English
+DT Article
+ID electron-spin resonance; density-functional geometry; coupled-cluster theory; hydrocarbon radical; perturbation-theory; basis-set; benzyl; spectroscopy; asphaltene; combustion
+AB Radical recombination reactions are important in the combustion of fuel oils. Shale oil contains alkylated heteroaromatic species, the simplest example of which is the 2-thienylmethyl radical. The ab initio potential energy surface for the reaction of the 2-thienylmethyl radical with the HO2 radical has been examined. Seventeen product channels corresponding to either addition/elimination or direct hydrogen abstraction have been characterized for the first time. Direct hydrogen abstract from HO2 proceeds via a weakly bound van der Waals complex, which leads to 2-methylthiophene, 2-methylene-2,3-dihydrothiophene, or 2-methylene-2,5-dihydrothiophene depending upon the 2-thienylmethyl radical reaction site. The addition pathway for the two radical reactants is barrierless with the formation of three adducts, as distinguished by HO2 reaction at three different sites on the 2-thienylmethyl radical. The addition is exothermic by 37-55 kcal mol(-1) relative to the entrance channel, and these excess energies are available to promote further decomposition or rearrangement of the adducts, leading to nascent products such as H, OH, H2O, and CH2O. The reaction surfaces are characterized by relatively low barriers (most lower than 10 kcal mol(-1)). Upon the basis of a careful analysis of the overall barrier heights and reaction exothermicities, the formations of O-2, OH, and H2O are likely to be important pathways in the radical recombination reactions of 2-thienylmethyl + HO2.
+C1 [Song, Xinli; Parish, Carol A.] Univ Richmond, Dept Chem, Gottwald Ctr Sci, Richmond, VA 23173 USA.
+RP Parish, CA (通讯作者)，Univ Richmond, Dept Chem, Gottwald Ctr Sci, Richmond, VA 23173 USA.
+EM cparish@richmond.edu
+FU Department of Energy [CHE-0239664]; NSF RUI [CHE-0809462]; Henry Dreyfus Teacher Scholar Award program; Floyd D. and Elisabeth S. Gottwald Endowment; American Chemical Society
+CR Baboul AG, 1999, J CHEM PHYS, V110, P7650, DOI 10.1063/1.478676
+   Bartlett RJ, 1978, INT J QUANTUM CHEM, V14, P561, DOI 10.1002/qua.560140504
+   Bell RD, 2004, CHEM PHYS LETT, V394, P105, DOI 10.1016/j.cplett.2004.06.127
+   Bolton JR, 1962, MOL PHYS, V5, P43, DOI 10.1080/00268976200100051
+   Carrington A, 1963, Q REV CHEM SOC, V17, P67, DOI 10.1039/qr9631700067
+   Carrington A, 1964, MOL PHYS, V9, P137
+   Da SILVAG, 2009, J CHEM THEORY COMPUT, V5, P3185, DOI 10.1021/ct900352f
+   Da SILVAG, 2009, P COMBUST INST, V32, P287, DOI 10.1016/j.proci.2008.05.040
+   Dagaut P, 2002, PHYS CHEM CHEM PHYS, V4, P1846, DOI 10.1039/b110282f
+   Davis WM, 1998, J CHEM SOC FARADAY T, V94, P2725
+   Dunning TH, 2001, J CHEM PHYS, V114, P9244, DOI 10.1063/1.1367373
+   Frisch MJ, 2009, GAUSSIAN 09, V0, P0
+   Gonzalez C, 1990, J PHYS CHEM-US, V94, P5523, DOI 10.1021/j100377a021
+   Harding LB, 2007, J PHYS CHEM A, V111, P3789, DOI 10.1021/jp0682309
+   Hippler H, 1990, P COMBUST INST, V23, P37
+   Hrovat DA, 1994, J PHYS CHEM-US, V98, P10460, DOI 10.1021/j100092a014
+   Hudson A, 1970, TETRAHEDRON, V26, P4413
+   Hudson A, 1969, MOL PHYS, V0, P519
+   Jayatilaka D, 1993, J CHEM PHYS, V98, P9734, DOI 10.1063/1.464352
+   Kispert LD, 1971, J ORG CHEM, V36, P3837, DOI 10.1021/jo00823a618
+   Krusic PJ, 1968, J AM CHEM SOC, V90, P7155, DOI 10.1021/ja01027a065
+   Lee CT, 1988, PHYS REV B, V37, P785, DOI 10.1103/PhysRevB.37.785
+   Lee TJ, 1995, CHEM PHYS LETT, V243, P402, DOI 10.1016/0009-2614(95)00875-5
+   Li YY, 2009, ENERG FUEL, V23, P1473, DOI 10.1021/ef800902t
+   Montgomery JA, 1999, J CHEM PHYS, V110, P2822, DOI 10.1063/1.477924
+   Mullins OC, 2007, ASPHALTENES HEAVY OI, V0, P0
+   Murakami Y, 2007, J PHYS CHEM A, V111, P13200, DOI 10.1021/jp075369q
+   *potentialgascommittee , 2011, POT GAS COMM REP SUB, V0, P0
+   Rienstra-kiracofe JC, 2000, J PHYS CHEM A, V104, P9823, DOI 10.1021/jp001041k
+   Ruiz-morales Y, 2007, ENERG FUEL, V21, P944, DOI 10.1021/ef0605605
+   Senosiain JP, 2006, J PHYS CHEM A, V110, P6960, DOI 10.1021/jp0566820
+   Slanger TG, 1988, J PHYS CHEM-US, V92, P267, DOI 10.1021/j100313a008
+   Song XL, 2011, J PHYS CHEM A, V115, P2882, DOI 10.1021/jp1118458
+   Truhlar DG, 1984, ANNU REV PHYS CHEM, V35, P159, DOI 10.1146/annurev.physchem.35.1.159
+   Wang BS, 2005, CHEM PHYS LETT, V410, P235, DOI 10.1016/j.cplett.2005.05.091
+   Zhang IY, 2010, CHEM COMMUN, V46, P3057, DOI 10.1039/c000677g
+   Zhao Y, 2005, J PHYS CHEM A, V109, P2012, DOI 10.1021/jp045141s
+   Zhao Y, 2008, THEOR CHEM ACC, V120, P215, DOI 10.1007/s00214-007-0310-x
+NR 38
+TC 4
+Z9 4
+U1 0
+U2 10
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 1089-5639
+EI 
+J9 J PHYS CHEM A
+JI J. Phys. Chem. A
+PD DEC 22
+PY 2011
+VL 115
+IS 50
+BP 14546
+EP 14557
+DI 10.1021/jp209656d
+PG 12
+WC Chemistry, Physical; Physics, Atomic, Molecular & Chemical
+SC Chemistry; Physics
+GA 860KN
+UT WOS:000297947300037
+PM 22054057
+DA 2022-09-26
+ER
+
+PT J
+AU Liu, YH
+   Xue, XX
+   Li, Y
+AF Liu Yan-Hui
+   Xue Xiang-Xin
+   Li Yong
+TI PYROLYSIS OF OIL SHALE MIXED WITH LOW-DENSITY POLYETHYLENE
+SO OIL SHALE
+LA English
+DT Article
+ID co-pyrolysis; kinetics; coal
+AB The pyrolysis experiments on oil shale mixed with low-density polyethylene (LDPE) were carried out with the aid of thermogravimetric analyzer, differential scanning calorimetry system and distillation furnace. The results obtained indicate that a synergistic effect exists to some extent during pyrolysis of oil shale mixed with LDPE. The temperature of maximum degradation of the mixture is approximately 5 degrees C lower than that of oil shale. The difference in weight loss between the pure oil shale and that mixed with LDPE is 1.17% at 550 degrees C. Co-pyrolysis experiments of oil shale mixed with LDPE show an increased shale oil yield, and the obtained oil containes novel alkynes or allenes.
+C1 [Liu Yan-Hui; Xue Xiang-Xin; Li Yong] Northeastern Univ, Sch Met & Mat, Shenyang 110004, Liaoning, Peoples R China.
+   [Liu Yan-Hui] Shenyang Ligong Univ, Coll Mat Sci & Engn, Shenyang 110168, Liaoning, Peoples R China.
+RP Xue, XX (通讯作者)，Northeastern Univ, Sch Met & Mat, Shenyang 110004, Liaoning, Peoples R China.
+EM xuexx@mail.neu.edu.cn
+FU Chinese National Science Foundation [50674024]
+CR Altun NE, 2006, FUEL PROCESS TECHNOL, V87, P783, DOI 10.1016/j.fuproc.2006.04.001
+   Fedorak PM, 2006, FUEL, V85, P1642, DOI 10.1016/j.fuel.2006.02.015
+   Kaljuvee T, 2004, J THERM ANAL CALORIM, V78, P399, DOI 10.1023/B:JTAN.0000046106.53195.26
+   Kaminsky W, 2004, POLYM DEGRAD STABIL, V85, P1045, DOI 10.1016/j.polymdegradstab.2003.05.002
+   Ke YK, 2004, SPECTRAL ANAL, V0, P0
+   Li SY, 2003, FUEL, V82, P337, DOI 10.1016/S0016-2361(02)00268-5
+   Li Y, 2008, J CHEM IND ENG, V59, P1052
+   Mastral AM, 2000, FUEL PROCESS TECHNOL, V64, P135, DOI 10.1016/S0378-3820(99)00127-7
+   Petersen HI, 2008, INT J COAL GEOL, V74, P93, DOI 10.1016/j.coal.2007.11.007
+   Qian JL, 2008, OIL SHALE, V0, P0
+   Sakurovs R, 2003, FUEL, V82, P1911, DOI 10.1016/S0016-2361(03)00173-X
+   Tiikma L, 2004, OIL SHALE, V21, P75
+   Xue HQ, 2010, OIL SHALE, V27, P5, DOI 10.3176/oil.2010.1.02
+NR 13
+TC 3
+Z9 3
+U1 0
+U2 9
+PU ESTONIAN ACADEMY PUBLISHERS
+PI TALLINN
+PA 6 KOHTU, TALLINN 10130, ESTONIA
+SN 0208-189X
+EI 1736-7492
+J9 OIL SHALE
+JI Oil Shale
+PD JUN 15
+PY 2011
+VL 28
+IS 1
+BP 42
+EP 48
+DI 10.3176/oil.2011.1.05
+PG 7
+WC Energy & Fuels; Engineering, Petroleum
+SC Energy & Fuels; Engineering
+GA 729TC
+UT WOS:000287972800005
+DA 2022-09-26
+ER
+
+PT J
+AU Li, GX
+   Han, DY
+   Cao, ZB
+   Yuan, MM
+   Zai, XY
+AF Li, G. X.
+   Han, D. Y.
+   Cao, Z. B.
+   Yuan, M. M.
+   Zai, X. Y.
+TI STUDIES ON FUSHUN SHALE OIL FURFURAL REFINING
+SO OIL SHALE
+LA English
+DT Article
+AB Solvent refining of Fushun shale oil with furfural as a solvent extraction agent was investigated. The results showed that raffinate yield decreased with either the increasing of agent/oil mass ratio or reaction temperature; the extract yield increased under the same conditions, while the quality of raffinate oil was better. At agent/oil mass ratio of 3/1, reaction temperature of 60 degrees C and residence time of 30 min, the raffinate yield was 55.37%, and the extract yield 43.60%. The heavy component from the extract oil was used for blending different grades of asphalt such as heavy-traffic paving asphalt and building asphalt, the light component from the extract oil was used for separation of non-hydrocarbon compounds; a range of light fuel oil was produced through catalytic cracking experiment with the denitrified raffinate oil, the removed nitrogen compounds were also used for separation of non-hydrocarbon compounds.
+C1 [Li, G. X.; Han, D. Y.; Cao, Z. B.; Yuan, M. M.; Zai, X. Y.] Liaoning Shihua Univ, Sch Petrolchem Engn, Fushun Liaoning 113001, Peoples R China.
+RP Han, DY (通讯作者)，Liaoning Shihua Univ, Sch Petrolchem Engn, Fushun Liaoning 113001, Peoples R China.
+EM hdy_mailbox@163.com
+FU Liaoning Science & Technology Foundation [2008230002]
+CR Li X, 2003, THESIS U PETROLEUM B, V0, P0
+   Zhang S, 1996, J PETROLEUM U NATU S, V0, P77
+   Zhao G, 2008, CONT CHEM IND, V10, P496
+   Zhao Y, 2000, SHENYANG CHEM IND, V29, P78
+NR 4
+TC 4
+Z9 4
+U1 0
+U2 14
+PU ESTONIAN ACADEMY PUBLISHERS
+PI TALLINN
+PA 6 KOHTU, TALLINN 10130, ESTONIA
+SN 0208-189X
+EI 
+J9 OIL SHALE
+JI Oil Shale
+PD JUN 15
+PY 2011
+VL 28
+IS 3
+BP 372
+EP 379
+DI 10.3176/oil.2011.3.02
+PG 8
+WC Energy & Fuels; Engineering, Petroleum
+SC Energy & Fuels; Engineering
+GA 825FK
+UT WOS:000295256400002
+DA 2022-09-26
+ER
+
+PT J
+AU Bai, YH
+   Tang, H
+   Yan, K
+AF Bai Yunlai
+   Tang Hua
+   Yan Kai
+TI GEOLOGICAL CHARACTERISTICS AND SOME PROBLEMS IN DEVELOPMENT FOR OIL SHALE IN NORTHWEST CHINA
+SO OIL SHALE
+LA English
+DT Article
+AB With the amount of oil resources becoming increasingly scarce, non-conventional resources such as oil shale, oil sands, and heavy oil, have caught our attention. There are abundant oil shale resources in Northwest China. Our analysis of field geological section surveys, standard mining investigations, and the laboratory analysis of important samples indicate that the oil shale in Northwest China is characterized by the following features: oil shale strata is 1-36 m thick, the color of slightly greasy, shiny and flaky oil shale is mostly brown-black, black with light brown streaks, but some oil shale outcrops appear maroon. Oil shale is of layered structure, irregular shape, conchoidal fracture, and low hardness, composed mainly of clay and silt-sized detrital minerals (feldspar and quartz). SiO(2) and Al(2)O(3) comprise a total of 52.54% of the rock, this indicates that oil shale is of the medium ash type. Organic carbon content of oil shale is 14% and that of total carbon 16.28%. Oil yield is generally 1.5-13.7%, overall caloric value 1.66-20.98 MJ/kg. Density of oil shale is 1.55-2.46 g/cc. Younger oil shale strata are characterized by progressively higher REE abundances. There are mainly three types of oil shale deposits: the littoral-neritic facies sedimentary deposits of the Middle and Upper Carboniferous - the Lower Permian, remnant lake bay-lacustrine facies sedimentary deposits of the Upper Permian, and shale which formed in inland deep water - half deep water lacustrine facies of the Mesozoic, the latter being of the major industrial type, and its origin is similar to "the Black Sea model." Oil shale layers are also the main oil source rock in the Ordos Basin. Oil shale layers which formed in deltaic environments in the Middle and Late Carboniferous and the Jurassic are mostly paragenetically related to coal beds. In the area, the total amount of predicted resources of oil shale is at least 31,000 x 10(8) t which is equivalent to about 2000 x 10(8) t of shale oil. Oil shale resources in the Ordos Basin account for 99% of the total and can be compared to oil shale resources in the Green River area of western North America. In Northwest China, the identified oil shale deposits are located in the vicinity of large and medium-sized cities, with good development prospects. If the problems of environmental pollution are solved and the appropriate techniques are used, the immense economic benefits can be obtained.
+C1 [Bai Yunlai] PetroChina, NW Geol Res Inst NWGI, Lanzhou 730020, Peoples R China.
+   [Tang Hua] Xian Inst Geol & Mineral Resources, Xian 710054, Peoples R China.
+   [Yan Kai] China Univ Geosci, Sch Earth Sci & Resources, Beijing 100086, Peoples R China.
+RP Bai, YH (通讯作者)，PetroChina, NW Geol Res Inst NWGI, Lanzhou 730020, Peoples R China.
+EM baiy16666@sina.com
+CR Bai YL, 2008, GANSU GEOLOGY, V17, P65
+   Bai YL, 2006, NAT GAS GEOSCI, V17, P627
+   Bai YL, 2006, ACTA GEOL SINICA, V80, P702
+   Bai YL, 2008, XINJIANG PETROLEUM G, V0, P462
+   [白云来 BAIYUN-LAI], 2010, 现代地质 GEOSCIENCE, V24, P158
+   [白云来 BAIYUN-LAI], 2009, 中国地质 GEOLOGY OF CHINA, V36, P1123
+   [白云来 BAIYUNLAI], 2007, 中国地质 GEOLOGY OF CHINA, V34, P1109
+   Guan DS, 1995, UNCONVENTIONALITY OI, V0, P228
+   Liu ZJ, 2009, OIL SHALE CHINA, V0, P0
+   [刘招君 LIUZHAOJUN], 2005, 地学前缘 EARTH SCIENCE FRONTIERS, V12, P315
+   Smith JW, 1980, MINERAL ENERGY RESOU, V23, P15
+   Tang H, 2006, GANSU GEOLOGY, V15, P2
+   *theofficeofthenationalcommitteeofmineralreserves , 1987, REF MAN MIN IND, V0, P0
+   Wang SY, 1992, GEOLOGICAL EC CHINA, V0, P16
+   Yuan JQ, 1979, MINERAL DEPOSITS, V0, P327
+   Zhang H, 1995, FORMATION EVOLUTION, V0, P0
+   Zhao LS, 1979, GEOCHEMISTRY, V0, P0
+   Zhao LY, 1995, GEOSCIENCE, V5, P423
+   Zhao YT, 1992, ADV EARTH SCI, V7, P49, DOI 10.11867/j.issn.1001-8166.1992.02.0048
+   Zou GC, 2004, GEOLOGICAL B CHINA, V23, P909
+NR 20
+TC 8
+Z9 9
+U1 1
+U2 18
+PU ESTONIAN ACADEMY PUBLISHERS
+PI TALLINN
+PA 6 KOHTU, TALLINN 10130, ESTONIA
+SN 0208-189X
+EI 
+J9 OIL SHALE
+JI Oil Shale
+PD JUN 15
+PY 2011
+VL 28
+IS 3
+BP 380
+EP 397
+DI 10.3176/oil.2011.3.03
+PG 18
+WC Energy & Fuels; Engineering, Petroleum
+SC Energy & Fuels; Engineering
+GA 825FK
+UT WOS:000295256400003
+DA 2022-09-26
+ER
+
+PT J
+AU Mitchell, W
+   Goldberg, S
+   Al-Abadleh, HA
+AF Mitchell, William
+   Goldberg, Sabine
+   Al-Abadleh, Hind A.
+TI In situ ATR-FTIR and surface complexation modeling studies on the adsorption of dimethylarsinic acid and p-arsanilic acid on iron-(oxyhydr)oxides
+SO JOURNAL OF COLLOID AND INTERFACE SCIENCE
+LA English
+DT Article
+DE Dimethylarsenic acid; p-Arsanilic acid; Iron (oxyhydr)oxides; ATR-FTIR; Triple-layer surface complexation model
+ID goethite alpha; oil-shale; iron (oxyhydr)oxide; arsenate; desorption; speciation; sorption; interface; phosphate; kinetics
+AB Arsenic is an element that exists naturally in many rocks and minerals around the world. It also accumulates in petroleum, shale, oil sands, and coal deposits as a result of biogeochemical processes, and it has been found in fly ash from the combustion of solid biofuels. Arsenic compounds in their organic and inorganic forms pose both a health and an environmental risk, and continue to be a challenge to the energy industry. The environmental fate and removal technologies of arsenic compounds are controlled to a large extent by their surface interactions with inorganic and organic adsorbents. We report thermodynamic binding constants, K-binding, from applying the triple-layer surface complexation model to adsorption isotherm and pH envelope data for dimethylarsinic acid (DMA) and p-arsanilic acid (p-AsA) on hematite and goethite. Ligand exchange reactions were constructed based on the interpretation of ATR-FTIR spectra of DMA and p-AsA surface complexes. Surface coverage of adsorbates was quantified in situ from the spectral component at 840cm(-1). The best fit to the DMA adsorption data was obtained using outer-sphere complex formation, whereas for p-AsA, the best fit was obtained using two monodentate inner-sphere surface complexes. The significance of the results is discussed in relation to improving modeling tools used by environmental regulators and the energy sector for optimum control of arsenic content in fuels. Copyright (C) 2011 Elsevier Inc. All rights reserved.
+C1 [Mitchell, William; Al-Abadleh, Hind A.] Wilfrid Laurier Univ, Dept Chem, Waterloo, ON N2L 3C5, Canada.
+   [Goldberg, Sabine] USDA ARS, US Salin Lab, Riverside, CA 92507 USA.
+RP Al-Abadleh, HA (通讯作者)，Wilfrid Laurier Univ, Dept Chem, Waterloo, ON N2L 3C5, Canada.
+EM halabadleh@wlu.ca
+FU Wilfrid Laurier University; Canadian Foundation for Innovation; American Chemical Society
+CR Adamescu A, 2010, ENVIRON SCI TECHNOL, V44, P7802, DOI 10.1021/es1011516
+   Adamescu A, 2010, CAN J CHEM, V88, P65, DOI 10.1139/V09-147
+   Arai Y, 2003, ENVIRON SCI TECHNOL, V37, P4083, DOI 10.1021/es0340580
+   Baernthaler G, 2006, BIOMASS BIOENERG, V30, P983, DOI 10.1016/j.biombioe.2006.06.007
+   Chabot M, 2009, ENVIRON SCI TECHNOL, V43, P3142, DOI 10.1021/es803178f
+   Cheng ZQ, 2005, ENVIRON SCI TECHNOL, V39, P7662, DOI 10.1021/es050429w
+   Cortinas I, 2006, ENVIRON SCI TECHNOL, V40, P2951, DOI 10.1021/es051981o
+   Cowen S, 2008, CAN J CHEM, V86, P942, DOI 10.1139/V08-102
+   Cox CD, 1994, WATER RES, V28, P1181, DOI 10.1016/0043-1354(94)90206-2
+   Cramer SP, 1988, ENERG FUEL, V2, P175, DOI 10.1021/ef00008a013
+   Cullen WR, 2008, IS ARSENIC AN APHRODISIAC?: THE SOCIOCHEMISTRY OF AN ELEMENT, V0, PP1, DOI 10.1039/9781847558602
+   Cygan RT, 2001, REV MINERAL GEOCHEM, V42, P1, DOI 10.2138/rmg.2001.42.1
+   Datta R, 2006, SCI TOTAL ENVIRON, V372, P39, DOI 10.1016/j.scitotenv.2006.08.003
+   Davis JA, 1978, J COLLOID INTERF SCI, V63, P480, DOI 10.1016/S0021-9797(78)80009-5
+   Depalma S, 2008, ENVIRON SCI TECHNOL, V42, P1922, DOI 10.1021/es071752x
+   Dopp E, 2004, CRIT REV TOXICOL, V34, P301, DOI 10.1080/10408440490270160
+   Fish RH, 1987, ENERG FUEL, V1, P243, DOI 10.1021/ef00003a003
+   Fish RH, 1982, ENVIRON SCI TECHNOL, V16, P174, DOI 10.1021/es00097a010
+   Fukushi K, 2007, GEOCHIM COSMOCHIM AC, V71, P3717, DOI 10.1016/j.gca.2007.05.018
+   Goldberg S, 2001, J COLLOID INTERF SCI, V234, P204, DOI 10.1006/jcis.2000.7295
+   Goldberg S, 2008, VADOSE ZONE J, V7, P1185, DOI 10.2136/vzj2008.0013
+   Grafe M, 2005, GEOCHIM COSMOCHIM AC, V69, P4573, DOI 10.1016/j.gca.2005.04.016
+   Grafe M, 2004, ENVIRON SCI TECHNOL, V38, P6561, DOI 10.1021/es035166p
+   Hayes KF, 1987, J COLLOID INTERF SCI, V115, P564, DOI 10.1016/0021-9797(87)90078-6
+   Herbelin A, 1996, FITEQL COMPUTER PROG, V0, P96
+   Hering JG, 2005, ACS SYM SER, V915, P8, DOI 10.1021/bk-2005-0915.ch002
+   Huang JH, 2009, ENVIRON SCI TECHNOL, V43, P7092, DOI 10.1021/es901605q
+   Ikawa SI, 1968, SPECTROCHIM ACTA A-M, VA 24, P655, DOI 10.1016/0584-8539(68)80095-9
+   Jackson BP, 2000, SOIL SCI SOC AM J, V64, P1616, DOI 10.2136/sssaj2000.6451616x
+   Jing CY, 2005, J COLLOID INTERF SCI, V290, P14, DOI 10.1016/j.jcis.2005.04.019
+   Lafferty BJ, 2005, ENVIRON SCI TECHNOL, V39, P2120, DOI 10.1021/es048701+
+   Lefevre G, 2004, ADV COLLOID INTERFAC, V107, P109, DOI 10.1016/j.cis.2003.11.002
+   Li FX, 2008, ENERG ENVIRON SCI, V1, P248, DOI 10.1039/b809218b
+   Lumsdon DG, 1984, J SOIL SCI, V35, P381, DOI 10.1111/j.1365-2389.1984.tb00294.x
+   Oday PA, 2005, ACS S SERIES, V0, P0
+   Pelley J, 2005, ENV SCI TECHNOL A, V122, P39
+   Pinel-raffaitin P, 2007, ENVIRON SCI TECHNOL, V41, P4536, DOI 10.1021/es0628506
+   Ponthieu M, 2007, WATER RES, V41, P3177, DOI 10.1016/j.watres.2007.04.026
+   Quinn R, 2004, APPL CATAL A-GEN, V264, P103, DOI 10.1016/j.apcata.2003.12.034
+   Ramesh A, 2007, SEP PURIF TECHNOL, V56, P90, DOI 10.1016/j.seppur.2007.01.025
+   Ravenscroft R, 2009, ARSENIC POLLUTION GL, V0, P0
+   Reimer KJ, 2009, ARSENIC CONCENTRATIO, V0, P0
+   Shimizu M, 2010, ENVIRON SCI TECHNOL, V44, P612, DOI 10.1021/es9027502
+   Sparks DL, 2005, ENVIRONMENTAL CATALYSIS, V0, P3
+   Sperline RP, 1987, LANGMUIR, V3, P198, DOI 10.1021/la00074a009
+   Van BRONSWIJKW, 2006, VIB SPECTROSC, V41, P176, DOI 10.1016/j.vibspec.2005.12.007
+   Weckler B, 1998, EUR J SOL STATE INOR, V35, P531, DOI 10.1016/S0992-4361(99)80017-4
+   Zhang JS, 2008, J COLLOID INTERF SCI, V317, P35, DOI 10.1016/j.jcis.2007.09.024
+   Zhang JS, 2007, J COLLOID INTERF SCI, V306, P16, DOI 10.1016/j.jcis.2006.10.004
+   Zhang PC, 1990, ENVIRON SCI TECHNOL, V24, P1848, DOI 10.1021/es00082a010
+   Zhonghou , 2008, ENVIRON SCI TECHNOL, V42, P2349
+NR 51
+TC 45
+Z9 47
+U1 2
+U2 126
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0021-9797
+EI 1095-7103
+J9 J COLLOID INTERF SCI
+JI J. Colloid Interface Sci.
+PD JUN 15
+PY 2011
+VL 358
+IS 2
+BP 534
+EP 540
+DI 10.1016/j.jcis.2011.02.040
+PG 7
+WC Chemistry, Physical
+SC Chemistry
+GA 758TB
+UT WOS:000290188400031
+PM 21457993
+DA 2022-09-26
+ER
+
+PT J
+AU Ots, A
+   Poobus, A
+   Lausmaa, T
+AF Ots, A.
+   Poobus, A.
+   Lausmaa, T.
+TI TECHNICAL AND ECOLOGICAL ASPECTS OF SHALE OIL AND POWER COGENERATION
+SO OIL SHALE
+LA English
+DT Article
+ID technology
+AB The most substantial feature of shale oil and power cogeneration is the technology that uses the high-temperature solid phase from the ash separator of a circulating fluidised-bed (CFB) boiler as the heat carrier in the rotating drum reactor in oil shale retorting equipment rather than high-temperature ash from a single-purpose built-in semi-coke burning furnace. Retort products generated in the rotating drum reactor are separated from semi-coke in the separator and canalised into the condensing and cleaning equipment. Semi-coke is transported into the CFB furnace. All co-products generated in this technological process, such as phenol water, drying agent containing oil shale particles etc., are defused in the furnace of the CFB boiler. The application of such technology makes it possible to minimise the dangerous waste of shale oil production and guarantee the maximum use of oil shale energy.
+C1 [Ots, A.; Poobus, A.; Lausmaa, T.] Tallinn Univ Technol, Dept Thermal Engn, EE-11712 Tallinn, Estonia.
+RP Ots, A (通讯作者)，Tallinn Univ Technol, Dept Thermal Engn, 116 Kopli St, EE-11712 Tallinn, Estonia.
+EM aots@sti.ttu.ee
+CR Golubev N, 2003, OIL SHALE, V20, P324
+   Hotta A, 2005, OIL SHALE, V22, P381
+   Ots A, 2008, PATENT NO. 200700006, V0, P0
+NR 3
+TC 20
+Z9 21
+U1 1
+U2 11
+PU ESTONIAN ACADEMY PUBLISHERS
+PI TALLINN
+PA 6 KOHTU, TALLINN 10130, ESTONIA
+SN 0208-189X
+EI 
+J9 OIL SHALE
+JI Oil Shale
+PD JUN 15
+PY 2011
+VL 28
+IS 
+BP 101
+EP 112
+DI 10.3176/oil.2011.1S.03
+PG 12
+WC Energy & Fuels; Engineering, Petroleum
+SC Energy & Fuels; Engineering
+GA 729TE
+UT WOS:000287973000003
+DA 2022-09-26
+ER
+
